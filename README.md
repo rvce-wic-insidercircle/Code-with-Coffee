@@ -2,7 +2,7 @@
 
 A monthly brew of brain teasers, code, and caffeine!
 
-Code with Coffee** is a recurring community-driven coding series where we explore the realms of Data Structures**, **Algorithms**, **Competitive Programming**, and more.
+Code with Coffee is a recurring community-driven coding series where we explore the realms of Data Structures**, Algorithms, Competitive Programming, and more.
 Whether you're prepping for interviews, leveling up for contests, or just love problem-solving — there's a hot cup of code waiting for you here!
 
 ---
@@ -16,4 +16,8 @@ Whether you're prepping for interviews, leveling up for contests, or just love p
 
 ---
 
+## ☕ Made with love & coffee by Code with Coffee Team 💻
 
+---
+
+**Keep coding, stay curious, and don’t forget the coffee!**
