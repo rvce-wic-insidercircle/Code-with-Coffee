@@ -8,7 +8,7 @@ Whether you're prepping for interviews, leveling up for contests, or just love p
 ---
 
 ## 🔍 What to Expect
-- 💡 Live walkthroughs of easy to medium-level problems
+- 💡 Live walkthroughs of coding problems
 - 🧪 Debugging and optimization practice
 - 🎲 Coding games, quizzes, and interactive sessions
 - 💬 Peer discussions and interview tips, and expert talks
@@ -16,6 +16,6 @@ Whether you're prepping for interviews, leveling up for contests, or just love p
 
 ---
 
-#Keep coding, stay curious, and don’t forget the coffee!
+Keep coding, stay curious, and don’t forget the coffee!
 
 **☕ Made with love & coffee by Code with Coffee Team 💻**
